@@ -10,4 +10,4 @@ E iniciando aprendizado em:
 <img src="https://img.shields.io/badge/JavaScript-F7DF1E.svg?style=for-the-badge&logo=JavaScript&logoColor=black" alt="logo-javascript">
 <img src="https://img.shields.io/badge/React-61DAFB.svg?style=for-the-badge&logo=React&logoColor=black" alt="logo-react">
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tonyfeitosa23)](https://github.com/anuraghazra/github-readme-stats) 
+
