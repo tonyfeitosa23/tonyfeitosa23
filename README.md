@@ -2,8 +2,7 @@
 
 Eu sou Tony Gabriel, sou um Programador Front-End, e atualmente estou aprendendo e criando projetos utilizando:
 
-<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html5">
-<img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css">
+<img src="https://img.shields.io/badge/HTML5-E34F26.svg?style=for-the-badge&logo=HTML5&logoColor=white" alt="logo-html5">  & <img src="https://img.shields.io/badge/CSS-663399.svg?style=for-the-badge&logo=CSS&logoColor=white" alt="logo-css">
 
 E iniciando aprendizado em:
 
